@@ -6,6 +6,8 @@ header{
     color: white;
 }
 
+
+
 section{
     background-color: #1abc9c;
 }
@@ -19,4 +21,12 @@ section{
 hr{
     border: 3px solid white;
     opacity: 1;
+}
+
+.section-2{
+    background-color: white;
+}
+
+.black{
+    border: 3px solid black;
 }
